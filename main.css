@@ -1,0 +1,101 @@
+nav {
+	background-color: #2F4F4F;	
+	margin-right:20%;
+}
+
+nav .nav-top {
+	display:inline;
+	float: left;
+	background-color: #2F4F4F;
+	margin-right:20%;
+}
+
+#header {
+	font-size: 25px;
+	background-color: #2F4F4F;
+	clear: both;
+    float: left;
+    
+}
+	
+
+nav li {
+	list-style: none;
+	float: left;
+	background-color: #2F4F4F;
+	padding:20px;
+}
+
+
+.phone-pics {
+	text-align: center;
+}
+
+#services {
+	background-color: #F2F2F2;
+
+}
+
+#service-pics{
+	display:inline-block;
+	text-align: center;
+}
+
+#service-pics img{
+	width: 20%;
+	display:inline-block;
+	padding: 0px 25px;
+	width: 100%;
+}
+	
+	
+
+
+
+
+.box{
+	height:150px; 
+	width: 100px;
+}
+
+
+
+.portfolio{
+	background-color: #2F4F4F;
+
+}
+
+.buttons{
+	color:#483D8B;
+}
+
+#aboutus{
+	background-color: #F2F2F2;
+}
+
+
+.quote {
+	background-color: #EB5054;
+	color:white;
+}
+
+.quote-text p {
+	font-size: 25px;
+	width:50px;
+
+}
+
+
+
+
+.contact-left{
+	width:200px;
+	float:left;
+} 
+
+
+
+.contact-right{
+	margin-left: 200px;
+}
+
